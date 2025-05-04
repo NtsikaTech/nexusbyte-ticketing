@@ -1,0 +1,23 @@
+[
+    {
+        "ticket_id": "Nexus-1",
+        "title": "Ntsika Xhali",
+        "description": "Index file disappeared",
+        "urgency": "High",
+        "status": "Open"
+    },
+    {
+        "ticket_id": "Nexus-2",
+        "title": "Kyle Lottering",
+        "description": "SSL certificate expired kindly assist with renewing it on my behalf if possible, looking forward to hearing from you.",
+        "urgency": "High",
+        "status": "Resolved"
+    },
+    {
+        "ticket_id": "Nexus-3",
+        "title": "Timothy Carring",
+        "description": "The website is currently showing an error 404  and this issue started early this morning, the website was working perfectly lastnight when I checked it.",
+        "urgency": "High",
+        "status": "Open"
+    }
+]

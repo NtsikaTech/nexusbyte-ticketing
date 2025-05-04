@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ntsika",
+        "issue": "Index file missing",
+        "Reference": "ntsikatech.co.za",
+        "date": "2025-04-26",
+        "urgency": "high",
+        "status": "open"
+    },
+    {
+        "name": "Ntsika",
+        "issue": "SSL issue ",
+        "Reference": "Ntsikatech.co.za",
+        "date": "2025-04-26",
+        "urgency": "high",
+        "status": "open"
+    },
+    {
+        "name": "Ntsika",
+        "issue": "SSL issue ",
+        "Reference": "Ntsikatech.co.za",
+        "date": "2025-04-26",
+        "urgency": "high ",
+        "status": "open"
+    }
+]

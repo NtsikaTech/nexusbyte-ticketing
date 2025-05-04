@@ -1,0 +1,20 @@
+<!-- tickets/templates/tickets/ticket_list.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All Tickets</title>
+</head>
+<body>
+    <h1>Ticket List</h1>
+    <ul>
+        {% for ticket in tickets %}
+            <li>
+                <a href="{% url 'ticket_detail' ticket.id %}">{{ ticket.title }}</a> - {{ ticket.status }}
+            </li>
+        {% empty %}
+            <li>No tickets available.</li>
+        {% endfor %}
+    </ul>
+    <a href="{% url 'ticket_create' %}">Create New Ticket</a>
+</body>
+</html>

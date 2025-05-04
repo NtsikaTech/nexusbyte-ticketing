@@ -1,0 +1,13 @@
+<!-- tickets/templates/tickets/ticket_detail.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ ticket.title }}</title>
+</head>
+<body>
+    <h1>{{ ticket.title }}</h1>
+    <p><strong>Description:</strong> {{ ticket.description }}</p>
+    <p><strong>Status:</strong> {{ ticket.status }}</p>
+    <a href="{% url 'ticket_list' %}">Back to List</a>
+</body>
+</html>
