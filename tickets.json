@@ -22,5 +22,15 @@
         "date": "2025-04-26",
         "urgency": "high ",
         "status": "open"
+    },
+    {
+        "name": "Ntsika",
+        "issue": "The SSL settings arent working",
+        "Reference": "Ntsikatech.co.za",
+        "Clients name": "Ntsika",
+        "issue type": "The SSL settings arent working",
+        "date": "2025-05-04",
+        "urgency": "High",
+        "status": "open"
     }
 ]
