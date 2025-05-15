@@ -59,7 +59,7 @@ I'm actively learning and building out the backend foundation for future version
 
 ## 📸 Screenshot
 
-*(Coming soon — will update with GUI preview)*
+![NexusByte GUI Preview](https://github.com/user-attachments/assets/8bcd8a24-d810-4be8-867d-3ccde23ea399)
 
 ---
 
