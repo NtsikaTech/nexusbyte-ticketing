@@ -63,8 +63,8 @@ I'm actively learning and building out the backend foundation for future version
 ![Old UI pop up](https://github.com/user-attachments/assets/1b7f5b3b-00c2-42e0-9f0c-685094ca06ca)
 
 ### After: 
-![New UI](https://github.com/user-attachments/assets/ed208417-8855-4179-b458-4ec9531d2434) 
-![New login UI](https://github.com/user-attachments/assets/8dda1305-5d05-41ee-b253-602d549160ae)
+![New UI](https://github.com/user-attachments/assets/71b57e86-623f-464d-bb72-8c090222e4fa)
+![New login UI](https://github.com/user-attachments/assets/cbb297fb-171e-48be-a82d-734745ed18ae)
 
 ---
 
