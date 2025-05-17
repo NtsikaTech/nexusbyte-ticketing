@@ -58,8 +58,13 @@ I'm actively learning and building out the backend foundation for future version
 ---
 
 ## 📸 Screenshot
+### Before:
+![Old UI](https://github.com/user-attachments/assets/8bcd8a24-d810-4be8-867d-3ccde23ea399)
+![Old UI pop up](https://github.com/user-attachments/assets/1b7f5b3b-00c2-42e0-9f0c-685094ca06ca)
 
-![NexusByte GUI Preview](https://github.com/user-attachments/assets/8bcd8a24-d810-4be8-867d-3ccde23ea399)
+### After: 
+![New UI](https://github.com/user-attachments/assets/ed208417-8855-4179-b458-4ec9531d2434) 
+![New login UI](https://github.com/user-attachments/assets/8dda1305-5d05-41ee-b253-602d549160ae)
 
 ---
 
